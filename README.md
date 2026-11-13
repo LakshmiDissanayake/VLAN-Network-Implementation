@@ -41,7 +41,7 @@ It focuses on VLAN segmentation, VLAN Trunking Protocol (VTP), IEEE 802.1Q trunk
 
 ## Project Files
 - [Packet Tracer Project](./VLAN-Network-Implementation.pkt)
-- [Screenshots](./Screenshots/)
+- [View All Project Screenshots](Screenshot/)
 
 ## Author
 Lakshmi Dissanayake
